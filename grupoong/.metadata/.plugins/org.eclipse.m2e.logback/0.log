@@ -427,3 +427,7 @@ Caused by: org.codehaus.plexus.util.xml.pull.XmlPullParserException: end tag nam
 2023-10-05 10:19:23,601 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
 2023-10-05 10:19:23,608 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
 2023-10-05 10:19:23,611 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\USUARIO\Desktop\CURSO EM VÍDEO\Hack_FIAPeAlura\grupoong2\src\test\resources
+2023-10-05 15:09:18,701 [Worker-7: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-10-05 15:13:48,497 [Worker-15: Launching grupoong2 - GrupoongApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-10-05 15:13:48,705 [Worker-15: Launching grupoong2 - GrupoongApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-10-05 15:13:48,780 [Worker-15: Launching grupoong2 - GrupoongApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\USUARIO\Desktop\CURSO EM VÍDEO\Hack_FIAPeAlura\grupoong2\src\test\resources
