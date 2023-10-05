@@ -15,4 +15,5 @@
     <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
     <fullyQualifiedTypeName name="br.com.hackfiapalura.grupoong.repository.TalentRepository"/>
     <fullyQualifiedTypeName name="org.springframework.stereotype.Service"/>
+    <fullyQualifiedTypeName name="org.springdoc.core.models.GroupedOpenApi"/>
 </qualifiedTypeNameHistroy>
