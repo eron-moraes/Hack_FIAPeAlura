@@ -19,6 +19,10 @@ public class Talent {
     private int idade;
     private String objetivo;
     
+	public Talent() {
+
+	}
+    
     
 	public Talent(Long id, String nome, String talento, int idade, String objetivo) {
 		this.id = id;
@@ -27,6 +31,9 @@ public class Talent {
 		this.idade = idade;
 		this.objetivo = objetivo;
 	}
+
+
+
     
     
 }
