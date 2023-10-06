@@ -34,8 +34,8 @@ As seguintes tecnologias foram usadas na construção deste projeto:
   <li><a href="https://www.w3schools.com/html/default.asp" target="_blank">HTML5</a></li>
   <li><a href="https://www.w3schools.com/css/default.asp" target="_blank">CSS3</a></li>
   <li><a href="https://www.w3schools.com/js/default.asp" target="_blank">Javascript</a></li>
-   <li><a href=”https://angular.io/” target="_blank">Angular</a></li>
- <li><a href=”https://www.w3schools.com/java/default.asp” target=”_blank">Angular</a></li>
+  <li><a href=”https://angular.io/” target="_blank">Angular</a></li>
+  <li><a href=”https://www.w3schools.com/java/default.asp” target="_blank">Java</a></li>
 </ul>
 
 <h2>Contribuição</h2>
