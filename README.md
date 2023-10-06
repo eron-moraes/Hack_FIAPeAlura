@@ -15,7 +15,18 @@ Demonstração da Aplicação
 https://github.com/Epiled/Hack-Fiap</p>
 Pré-requisitos e como rodar a aplicação/testes
 <p> O projeto pode ser executado através do arquivo index.html que se encontra na pasta dist que é o que recomendo usar, clicando duas vezes sobre ele ou abrindo diretamente sobre o navegador </p>
-Tecnologias utilizadas
+
+
+<h2>Instalação</h2>
+
+```
+1. git clone https://github.com/eron-moraes/Hack_FIAPeAlura
+2. cd Hack_FIAPeAlura
+3. cd src/app/data
+4. json-server --watch users.json
+5. Abra a index utilizando o live-server
+```
+
 <h2 id="tecnologias"> 🛠 Tecnologias </h2>
 
 As seguintes tecnologias foram usadas na construção deste projeto:
@@ -39,6 +50,8 @@ https://www.linkedin.com/in/ramosoliver</p>
 
 Autores
 
-Feito com ❤️ por Eron Moraes 👋🏽 Entre em contato!
-
-[![Linkedin Badge]( https://linkedin.com/in/eronmoraes7)
+Feito com ❤️ por 
+[Eron Moraes](https://linkedin.com/in/eronmoraes7) <br>
+[Felipe De Andrade Mendonça](https://www.linkedin.com/in/fademendonca/) <br>
+[Roberta Akemi Villas Minami](https://www.linkedin.com/in/roberta-akemi-villas-minami-183b057b/)
+👋🏽 Entre em contato!
