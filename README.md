@@ -1,7 +1,6 @@
 # Hack_FIAPeAlura
- Repositrório destinado ao nosso grupo no Hack.
 
- <p> Projeto apresentado no Hackthon  FIAP-Alura 2023, visando compor uma solução para uma ONG localizada na cidade de Embu- Guaçu.<,/p>
+<p> Projeto apresentado no Hackthon  FIAP-Alura 2023, visando compor uma solução para uma ONG localizada na cidade de Embu- Guaçu.</p>
 <p>  O grupo foi formado por pessoas com conhecimento em back-end, front-end e negócios.</p>
 <p> No desenvolvimento do projeto, vimos o potencial de expandir para outras instituições e se tornar uma importante ferramenta da tecnologia no fomento de soluções que criem engajamento, profissionalização, censo de comunidade e pertencimento. </p>
 
