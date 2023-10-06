@@ -39,13 +39,13 @@ As seguintes tecnologias foram usadas na construção deste projeto:
 </ul>
 
 <h2>Contribuição</h2>
-<p> Eron Moraes- back-End <br>
+<p> Eron Moraes - Back-End <br>
 https://linkedin.com/in/eronmoraes7</p>
-<p> Felipe De Andrade Mendonça- Front-End <br>
+<p> Felipe De Andrade Mendonça - Front-End <br>
 https://www.linkedin.com/in/fademendonca/</p>
-<p> Roberta Minami- Negócios <br>
+<p> Roberta Minami - Negócios <br>
 https://linkedin.com/in/roberta-akemi-villas-minami-183b057b</p>
-<p>Oliver Ramos- Negócios<br>
+<p>Oliver Ramos - Negócios<br>
 https://www.linkedin.com/in/ramosoliver</p>
 
 <h2>Autores</h2>
