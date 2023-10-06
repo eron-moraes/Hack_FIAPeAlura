@@ -1,4 +1,4 @@
-# Hack_FIAPeAlura
+# Projeto Celeiros de Transformação
 
 <p> Projeto apresentado no Hackthon  FIAP-Alura 2023, visando compor uma solução para uma ONG localizada na cidade de Embu- Guaçu.</p>
 <p>  O grupo foi formado por pessoas com conhecimento em back-end, front-end e negócios.</p>
