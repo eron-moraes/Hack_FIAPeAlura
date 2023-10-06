@@ -38,9 +38,6 @@ https://linkedin.com/in/roberta-akemi-villas-minami-183b057b</p>
 https://www.linkedin.com/in/ramosoliver</p>
 
 Autores
-<a href="https://blog.rocketseat.com.br/author/fELIPE/">
- <img style="border-radius: 50%;" src="https://avatars3.githubusercontent.com/u/380327?s=460&u=61b426b901b8fe02e12019b1fdb67bf0072d4f00&v=4" width="100px;" alt=""/>
- <br />
 
 Feito com ❤️ por Eron Moraes 👋🏽 Entre em contato!
 
