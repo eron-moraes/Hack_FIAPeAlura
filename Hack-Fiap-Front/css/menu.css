@@ -1,0 +1,141 @@
+.menu {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 1;
+}
+
+.menu__topo {
+  display: flex;
+  justify-content: flex-end;
+  height: 6rem;
+  border-bottom: .1rem solid var(--cor-principal);
+  background-color: var(--branco);
+  padding: 1.5rem;
+}
+
+.menu__barra {
+  position: fixed;
+  top: 6rem;
+  left: 0;
+  height: -webkit-fill-available;
+  width: 20.5rem;
+  background: linear-gradient(180deg, var(--cor-principal) 19.05%, var(--branco) 32.91%);
+  box-shadow: .5rem 0 .5rem 0rem rgba(0, 0, 0, 0.25);
+  color: var(--branco);
+  padding: 2rem 1.5rem;
+  transform: translateX(-21.5rem);
+  transition: transform .5s;
+}
+
+.menu__barra--alt {
+  display: block;
+  left: auto;
+  transform: translateX(0);
+  transform: translateX(100%);
+  right: 0;
+  z-index: 1;
+}
+
+.menu__barra--ativo, .menu__barra--alt--ativo  {
+  transform: translateX(0);
+}
+
+.menu__navegacao {}
+
+.menu__btn {
+  align-self: center;
+  font-size: 2.4rem;
+  color: var(--cor-principal);
+  background: none;
+  border: 0;
+}
+
+.barra--ativa:after{
+  content: "";
+  display: block;
+  position: fixed;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  background: rgba(0,0,0,0.4);
+}
+
+.barra__img {
+  width: 8rem;
+  height: 8rem;
+  border-radius: 10rem;
+  border: .3rem solid var(--cor-principal-claro);
+  box-shadow: 0 .5rem .5rem 0 rgba(0, 0, 0, 0.25);
+  margin-bottom: 1.5rem;
+  object-fit: contain;
+}
+
+.barra__nome {
+  font-size: 1.4rem;
+  margin-bottom: .7rem;
+}
+
+.barra__categoria {
+  font-size: 1.2rem;
+}
+
+.barra__divisor {
+  display: flex;
+  flex-direction: column;
+  padding: 1.5rem 0;
+  margin-top: 1.5rem;
+  gap: 1rem;
+  font-size: 1.2rem;
+  border-top: .1rem solid #939393;
+  border-bottom: .1rem solid #939393;
+}
+
+.barra__divisor--alt {
+  border: 0;
+}
+
+.barra__link {
+  color: #323232;
+}
+
+.barra__sair {
+  color: var(--cor-principal);
+  border-top: .1rem solid var(--cor-principal);
+  font-size: 1.2rem;
+  padding: 1.5rem 0;
+  display: block;
+}
+
+.barra__conteudo {
+  padding-bottom: 1rem;
+  border-bottom: .1rem solid #939393;
+}
+
+.barra__conteudo:last-of-type {
+  border: 0;
+}
+
+.barra__subtitulo {
+  color: #1B1B1B;
+  font-size: 1.4rem;
+  font-weight: 700;
+  margin-bottom: 1rem;
+}
+
+.barra__txt {
+  color: #333;
+  font-size: 1.2rem;
+  line-height: 1.2rem;
+  margin-bottom: 1rem;
+}
+
+.barra__txt:last-of-type {
+  margin-bottom: 0rem;
+}
+
+.barra__btn {
+  padding: 1rem 1.5rem;
+}
+

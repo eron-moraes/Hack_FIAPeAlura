@@ -1,0 +1,142 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "nome": "Marcia",
+      "email": "marica@contato.com",
+      "senha": "senhaMarcia",
+      "idGastos": 1
+    },
+    {
+      "id": 2,
+      "nome": "Calebe",
+      "email": "Calebe@contato.com",
+      "senha": "calebe123",
+      "idGastos": 2
+    },
+    {
+      "id": 3,
+      "nome": "Felipe",
+      "email": "felipe@contato.com",
+      "senha": "senhaFelipe*",
+      "idGastos": 3
+    }
+  ],
+  "servicos": [
+    {
+      "id": 1,
+      "descricao": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eget ligula eu lectus lobortis condimentum. Aliquam nonummy auctor massa",
+      "necessidades": "Educação",
+      "idONG": 1
+    },
+    {
+      "id": 2,
+      "descricao": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eget ligula eu lectus lobortis condimentum. Aliquam nonummy auctor massa",
+      "necessidades": "Ambiental",
+      "idONG": 2
+    },
+    {
+      "id": 3,
+      "descricao": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eget ligula eu lectus lobortis condimentum. Aliquam nonummy auctor massa",
+      "necessidades": "Ambiental",
+      "idONG": 3
+    },
+    {
+      "id": 4,
+      "descricao": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eget ligula eu lectus lobortis condimentum. Aliquam nonummy auctor massa",
+      "necessidades": "Ambiental",
+      "idONG": 2
+    },
+    {
+      "id": 5,
+      "descricao": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eget ligula eu lectus lobortis condimentum. Aliquam nonummy auctor massa",
+      "necessidades": "Ambiental",
+      "idONG": 2
+    },
+    {
+      "descricao": "Lorem Impsum",
+      "necessidades": "Lorem Impsum",
+      "idONG": 1,
+      "id": 6
+    },
+    {
+      "descricao": "Teste",
+      "necessidades": "Teste",
+      "idONG": 1,
+      "id": 7
+    },
+    {
+      "descricao": "Olá Mundo",
+      "necessidades": "Olá Mundo",
+      "idONG": 1,
+      "id": 8
+    },
+    {
+      "descricao": "Lorem Impsum",
+      "necessidades": "Programador",
+      "idONG": 1,
+      "id": 9
+    }
+  ],
+  "ongs": [
+    {
+      "id": 1,
+      "nomeONG": "ABRINQ",
+      "cnpj": "xx.xxx xxx xxx xx",
+      "senha": "AlgumSenha123",
+      "tipo": "Educação",
+      "email": "email@email.com",
+      "logo": "http://127.0.0.1:5500/assets/img/ong-logo/logo-abrinq.png"
+    },
+    {
+      "id": 2,
+      "nomeONG": "SOS",
+      "cnpj": "xx.xxx xxx xxx xx",
+      "senha": "AlgumSenha123",
+      "tipo": "Ambiental",
+      "email": "email@email.com",
+      "logo": "http://127.0.0.1:5500/assets/img/ong-logo/logo-sos.jpg"
+    },
+    {
+      "id": 3,
+      "nomeONG": "IPAM",
+      "cnpj": "xx.xxx xxx xxx xx",
+      "senha": "AlgumSenha123",
+      "tipo": "Ambiental",
+      "email": "email@email.com",
+      "logo": "http://127.0.0.1:5500/assets/img/ong-logo/white-logo.svg"
+    },
+    {
+      "nomeONG": "Nova",
+      "cnpj": "OnG",
+      "senha": "s",
+      "tipo": "s",
+      "email": "s",
+      "id": 4
+    },
+    {
+      "nomeONG": "",
+      "cnpj": "",
+      "senha": "",
+      "tipo": "",
+      "email": "",
+      "id": 5
+    },
+    {
+      "nomeONG": "",
+      "cnpj": "",
+      "senha": "",
+      "tipo": "",
+      "email": "",
+      "id": 6
+    },
+    {
+      "nomeONG": "",
+      "cnpj": "",
+      "senha": "",
+      "tipo": "",
+      "email": "",
+      "id": 7
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+.formulario {
+  max-width: 33rem;
+  width: 100%;
+}
+
+.formulario__campos {
+  background-color: var(--branco);
+  border: .1rem solid var(--cor-principal-esc);
+  display: flex;
+  flex-direction: column;
+  gap: 3rem;
+  padding: 1.5rem;
+  border-radius: .5rem;
+}
+
+.formulario__ipt {
+  color: var(--cor-ipt);
+  border-radius: .5rem;
+  border: .1rem solid var(--cor-principal);
+  background-color: var(--cor-fundo-ipt);
+  font-size: 1.6rem;
+  height: 4.5rem;
+  padding: .5rem;
+}
+
+.formulario__ipt--alt {
+  height: 15rem;
+}
+
+.formulario__ipt::placeholder {
+  color:  var(--cor-ipt);
+}

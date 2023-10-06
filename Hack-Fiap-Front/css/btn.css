@@ -1,0 +1,13 @@
+.btn {
+  background: var(--cor-principal);
+  border: .1rem solid var(--cor-principal-esc);
+  border-radius: .5rem;
+  color: var(--branco);
+  align-self: center;
+  min-height: 5rem;
+  min-width: 19rem;
+  font-size: 2rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

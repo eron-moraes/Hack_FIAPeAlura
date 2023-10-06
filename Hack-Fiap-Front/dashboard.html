@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Dashboard</title>
+
+  <link rel="stylesheet" href="./css/reset.css">
+  <link rel="stylesheet" href="./css/normalize.css">
+  <link rel="stylesheet" href="./css/base.css">
+  <link rel="stylesheet" href="./css/style.css">
+  <link rel="stylesheet" href="./css/btn.css">
+  <link rel="stylesheet" href="./css/formulario.css">
+  <link rel="stylesheet" href="./css/menu.css">
+  <link rel="stylesheet" href="./css/box.css">
+</head>
+
+<body>
+  
+  <header class="menu">
+    <div class="menu__topo">
+      <button class="menu__btn" data-menu>
+        Menu
+        <img src="" alt="">
+      </button>
+    </div>
+
+    <div class="menu__barra" data-menu-barra>
+      <img class="barra__img" src="" alt="">
+      <h2 class="barra__nome ">Nome</h2>
+      <span class="barra__categoria">Categoria</span>
+
+      <nav>
+        <div class="barra__divisor">
+          <a class="barra__link" href="cadastro-ong.html">Cadastrar ONG</a>
+          <a class="barra__link" href="cadastrar-necessidade.html">Registrar necessidades</a>
+        </div>
+
+        <a class="barra__sair" href="index.html">Sair</a>
+      </nav>
+    </div>
+  </header>
+
+  <main class="principal" data-container-ongs>
+
+  </main>
+
+  <aside class="menu__barra menu__barra--alt" data-ong-barra>
+    <img class="barra__img barra__img--alt" src="" alt="" data-ong-img>
+    <h2 class="barra__nome" data-ong-nome>Nome</h2>
+    <span class="barra__categoria" data-ong-categoria>Categoria</span>
+
+    <div class="barra__divisor barra__divisor--alt">
+
+      <div class="barra__conteudo">
+        <h3 class="barra__subtitulo">
+          Descrição:
+        </h3>
+        <p class="barra__txt" data-ong-desc>
+          Descrição: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eget ligula eu lectus lobortis condimentum. Aliquam nonummy auctor massa
+        </p>
+      </div>
+
+      <div class="barra__conteudo">
+        <h3 class="barra__subtitulo">
+          Necessidades:
+        </h3>
+        <p class="barra__txt" data-ong-nesc>
+          Descrição: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eget ligula eu lectus lobortis condimentum. Aliquam nonummy auctor massa
+        </p>
+      </div>
+
+    </div>
+
+    <a class="btn barra__btn" href="" data-ong-id-voluntario>
+      Voluntaria-se
+    </a>
+  </aside>
+
+  <script src="./js/menuToggle.js"></script>
+  <script src="./js/boxToggle.js"></script>
+  <script src="./src/app/mostraCards.js" type="module"></script>
+</body>
+
+</html>
